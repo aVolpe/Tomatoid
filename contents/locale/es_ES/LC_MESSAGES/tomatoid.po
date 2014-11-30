@@ -1,0 +1,159 @@
+# plasma-applet-tomatoid language translation file.
+# Copyright (C) 2013 Arthur Taborda
+# This file is distributed under the same license as the plasma-applet-tomatoid package.
+#
+#
+# Arturo Volpe <arturovolpe@gmail.com>, 2014.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-11-29 20:58-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Arturo Volpe <arturovolpe@gmail.com>\n"
+"Language-Team: Español España <LL@li.org>\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Report-msgstr-Bugs-To: \n"
+
+#: ../ui/main.qml:122
+msgid "Tasks"
+msgstr "Tareas"
+
+#: ../ui/main.qml:123
+msgid "Done"
+msgstr ""
+
+#: ../ui/main.qml:264
+msgid "Pomodoro completed"
+msgstr "Pomodoro completo"
+
+#: ../ui/main.qml:264
+msgid "Great job! Now take a break and relax for a moment."
+msgstr "Buen trabajo! Tomate un descanso y relájate."
+
+#: ../ui/main.qml:268
+msgid "Relax time is over"
+msgstr "Tiempo de descanso terminado"
+
+#: ../ui/main.qml:268
+msgid "Get back to work. Choose a task and start again."
+msgstr "Vuelve al trabajo. Elije una tarea y empieza de nuevo."
+
+#: ../ui/TopBar.qml:36
+msgid "Running pomodoro #"
+msgstr "Corriendo pomodoro #"
+
+#: ../ui/TopBar.qml:38
+msgid "Break time!"
+msgstr "Tiempo de descanso!"
+
+#: ../ui/TopBar.qml:68
+msgid "The estimation of pomodoros necessary to complete this task"
+msgstr "Cantidad de pomodoros estimados para terminar esta tarea"
+
+#: ../ui/TopBar.qml:73
+msgid "Est."
+msgstr "Est."
+
+#: ../ui/TopBar.qml:86
+msgid "Task Name"
+msgstr "Nombre de tarea"
+
+#: rc.js:1
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Nombres"
+
+#: rc.js:2
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "Correos electrónicos"
+
+#~ msgid "Completed"
+#~ msgstr "Completadas"
+
+#~ msgid "General"
+#~ msgstr "General"
+
+#~ msgid "Play ticking sound"
+#~ msgstr "Ejecutar sonido de tick"
+
+#~ msgid "Show icon timer"
+#~ msgstr "Mostrar icono del temporizador "
+
+#~ msgid "Flat"
+#~ msgstr "Plano"
+
+#~ msgid "Simple"
+#~ msgstr "Simple"
+
+#~ msgid ""
+#~ "Make next pomodoro start automatically after a break. Stop after long "
+#~ "break."
+#~ msgstr ""
+#~ "Iniciar pomodoro automáticamente después del descanso. Parar después de "
+#~ "descansos largos."
+
+#~ msgid "Continuous mode"
+#~ msgstr "Modo continuo"
+
+#~ msgid "Icon theme"
+#~ msgstr "Tema de los iconos"
+
+#~ msgid "Time"
+#~ msgstr "Tiempo"
+
+#~ msgid "Short break lenght"
+#~ msgstr "Duración del descanso corto"
+
+#~ msgid " pomodoros"
+#~ msgstr " pomodoros"
+
+#~ msgid "Pomodoros/long break"
+#~ msgstr "Pomodoros/Descanso largo"
+
+#~ msgid "Long break lenght"
+#~ msgstr "Duración del descanso largo"
+
+#~ msgid " minutes"
+#~ msgstr " minutos"
+
+#~ msgid "Pomodoro lenght"
+#~ msgstr "Longitud del pomodoro"
+
+#~ msgid "Notification"
+#~ msgstr "Notificación"
+
+#~ msgid "Play notification sound"
+#~ msgstr "Probar sonido de notificación"
+
+#~ msgid "Notification action"
+#~ msgstr "Acción de notificación"
+
+#~ msgid "Pop up tomatoid"
+#~ msgstr "Lanzar tomatoid"
+
+#~ msgid "Standart KDE notification"
+#~ msgstr "Notificación KDE estándar"
+
+#~ msgid "Do nothing"
+#~ msgstr "No hacer nada"
+
+#~ msgid "The lenght in minutes of one pomodoro"
+#~ msgstr "Longitud de un pomodoro en minutos"
+
+#~ msgid "The lenght in minutes of a short break"
+#~ msgstr "Longitud de un descanso corto en minutos"
+
+#~ msgid "The lenght in minutes of a long break"
+#~ msgstr "Longitud de un descanso largo en minutos"
+
+#~ msgid "The amount of pomodoros needed to take a long break"
+#~ msgstr "Cantidad de pomodoros antes de un descanso largo"
+
+#~ msgid "Make the timer in icon visible"
+#~ msgstr "Hacer que el icono del temporizador esté visible"
